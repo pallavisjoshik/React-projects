@@ -1,0 +1,92 @@
+.container1{
+    background-image: url('pic1dif.jpg');
+    background-size: cover;
+    height: 80vh;
+    padding: 20px;
+}
+.container2{
+    background-image: url('pic2dif.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+.container4{
+    background-image: url('remote2.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+.container5{
+    background-image: url('cartoon.jpg');
+    background-size: cover;
+    height: 80vh;
+}
+
+.container1 h1{
+    color: white;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.container1 h4{
+    padding-top: 15px;
+    padding-left: 30px;
+    color: white;
+    font-weight: 350;
+    
+}
+.container5 h1{
+    color: white;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.container5 h4{
+    padding-top: 15px;
+    padding-left: 30px;
+    color: white;
+    font-weight: 350;
+    
+}
+.container2 h1{
+    color: white;
+    font-weight: 400; 
+    padding-top: 80px;
+    padding-left: 700px;
+}
+.container2 h4{
+    padding-top: 15px;
+    color: white;
+    font-weight: 350;  
+    padding-left: 700px; 
+}
+.container4 h1{
+    color: white;
+    font-weight: 400; 
+    padding-top: 80px;
+    padding-left: 700px;
+}
+.container4 h4{
+    padding-top: 15px;
+    color: white;
+    font-weight: 350;  
+    padding-left: 700px; 
+}
+.colleft{
+    color: black;
+    font-weight: 400;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+.colright{
+    align-items: flex-end;
+
+}
+.container3{
+    display: flex;
+}
+.container6{
+    padding-top: 30px;
+}
+
